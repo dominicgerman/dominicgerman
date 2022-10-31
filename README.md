@@ -1,10 +1,11 @@
 # 👋 &nbsp; Hi! I’m Dom 
 
-#### I'm a self-taught fullstack developer based in Chicago, IL. I'm also a professional singer and cocktail aficionado 🥃.
+#### I'm a self-taught web developer based in Chicago, IL. I'm also a professional singer and cocktail aficionado 🥃.
 
 ## ℹ &nbsp; How to reach me
 - [Portfolio](https://www.dominicgerman.com)
 - [LinkedIn](https://www.linkedin.com/in/dominic-german)
+- [Email](mailto:dominicgerman@gmail.com)
 
 ## 🔧 &nbsp; Tools I Like
 
@@ -68,6 +69,32 @@
   <tr>
     <td align="center" height="90" width="90">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="40"
+        height="40"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="90" width="90">
+      <img 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  
+        width="40"
+        height="40"
+        alt="NextJS"
+      />
+      <br /><strong>Next</strong>    
+    <td align="center" height="90" width="90">
+      <img 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+        width="40"
+        height="40"
+        alt="Tailwind"
+      />
+      <br /><strong>Tailwind</strong>
+    </td>
+    <td align="center" height="90" width="90">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="40"
         height="40"
@@ -77,14 +104,14 @@
     </td>
     <td align="center" height="90" width="90">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="40"
         height="40"
-        alt="Express"
+        alt="Git"
       />
-      <br /><strong>Express</strong>
+      <br /><strong>Git</strong>
     </td>
-    <td align="center" height="90" width="90">
+     <td align="center" height="90" width="90">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         width="40"
@@ -92,32 +119,6 @@
         alt="MongoDB"
       />
       <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
-        width="40"
-        height="40"
-        alt="GraphQL"
-      />
-      <br /><strong>GraphQL</strong>    
-    <td align="center" height="90" width="90">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-        width="40"
-        height="40"
-        alt="Docker"
-      />
-      <br /><strong>Docker</strong>
-    </td>
-    <td align="center" height="90" width="90">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="40"
-        height="40"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
     </td>
   </tr>
 </table>
