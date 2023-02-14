@@ -1,6 +1,6 @@
 # 👋 &nbsp; Hi! I’m Dom 
 
-#### I'm a self-taught web developer based in Chicago, IL. I'm also a professional singer and cocktail aficionado 🥃.
+#### I'm a self-taught web developer based in Chicago, IL. I'm also a professional singer 🎶.
 
 ## ℹ &nbsp; How to reach me
 - [Portfolio](https://www.dominicgerman.com)
@@ -69,12 +69,12 @@
   <tr>
     <td align="center" height="90" width="90">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
         width="40"
         height="40"
-        alt="Express"
+        alt="graphQL"
       />
-      <br /><strong>Express</strong>
+      <br /><strong>GraphQL</strong>
     </td>
     <td align="center" height="90" width="90">
       <img 
@@ -111,14 +111,14 @@
       />
       <br /><strong>Git</strong>
     </td>
-     <td align="center" height="90" width="90">
+    <td align="center" height="90" width="90">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
         width="40"
         height="40"
-        alt="MongoDB"
+        alt="docker"
       />
-      <br /><strong>MongoDB</strong>
+      <br /><strong>Docker</strong>
     </td>
   </tr>
 </table>
